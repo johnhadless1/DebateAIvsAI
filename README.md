@@ -13,7 +13,7 @@ Watch AI vs AI debate over useless topic or interesting topic.
 > [!WARNING]
 > This was only tested on Linux and mid-horsepower GPU (GTX 1660 SUPER). Everything else is unknown, expect errors and stuff. Tinker with it.
 >
-> Local AI/LLM models only.
+> Local AI/LLM models only. (if you're bit insane, then you can make it into cloud)
 
 ### Inspired by DougDoug's [video](https://youtu.be/rPh-wiS8sjI?si=GGPKllLSePoCx6hS) about locking AIs in endless debate.
 
